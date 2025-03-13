@@ -1,0 +1,33 @@
+1:Juan:Pérez:González:informática  
+2:María:Gómez:López:contabilidad  
+3:Carlos:Fernández:Sánchez:almacenamiento  
+4:Laura:Díaz:Martínez:recursos humanos  
+5:José:Ruiz:Hernández:marketing  
+6:Ana:Torres:Jiménez:diseño  
+7:Pedro:Santos:Vargas:informática  
+8:Elena:Morales:Castro:contabilidad  
+9:David:Núñez:Ortega:almacenamiento  
+10:Sandra:Méndez:Paredes:recursos humanos  
+11:Alejandro:Flores:Delgado:marketing  
+12:Patricia:Vega:Ramos:diseño  
+13:Raúl:Herrera:Guzmán:informática  
+14:Beatriz:Lara:Peña:contabilidad  
+15:Fernando:Silva:Cabrera:almacenamiento  
+16:Lucía:Navarro:Fuentes:recursos humanos  
+17:Javier:Ortega:Salas:marketing  
+18:Carolina:Delgado:Medina:diseño  
+19:Óscar:Paredes:Romero:informática  
+20:Clara:Molina:Benítez:contabilidad  
+21:Alberto:Castillo:Suárez:almacenamiento  
+22:Sofía:Reyes:León:recursos humanos  
+23:Víctor:Cruz:Vidal:marketing  
+24:Mónica:Campos:Mora:diseño  
+25:Roberto:Rojas:Serna:informática  
+26:Gabriela:Hidalgo:Estévez:contabilidad  
+27:Hugo:Montoya:Bermúdez:almacenamiento  
+28:Andrea:Villanueva:Solano:recursos humanos  
+29:Emilio:Salazar:Pineda:marketing  
+30:Natalia:Escobar:Maldonado:diseño  
+31:Francisco:Jiménez:Valdez:informática  
+32:Teresa:Romero:Acosta:contabilidad  
+33:Esteban:Miranda:Mejía:almacenamiento
